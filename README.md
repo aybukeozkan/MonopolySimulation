@@ -1,16 +1,16 @@
 # MonopolySimulation
 A Monopoly game simulation in Java
 
-Vision and Scope
+# Vision and Scope
 
 The aim of this Monopoly Game project is to create a Java based object oriented implementation of the Monopoly game. The game will run as a simulation and print the necessary information as an output on the terminal.
 There is one player that has a pawn on board. The board has 40 squares on it. There are Start Square, Park Square, Province Squares, Management Squares, Station Squares, Tax Squares, Public Fund Squares, Chance Squares and Jail Squares. Players started game with 200$, on the Start Square, rolls dice and moves his/her pawn forward according to the face value of dice. If he/she comes to one of the province square, station square or management square he/she buy it if he/she can. If the square has an owner, he/she pays rent to owner. If he/she comes to the Jail Square, then loses 100$. If he/she comes to tax square he/she pays predetermined tax. If he/she comes chance or public fund squares, takes a chance or public card and do that task which written on card. If he/she comes to park then pays no rent but square can’t purchasable. If he/she finishes a tour on board and passes the Start Square, then earns 20$. The game finishes when there is only one player.
 
-System Constraints
+# System Constraints
 
 The project will run as a simulation on the console on any device that has Java Runtime Environment.
 
-Glossary of Terms
+# Glossary of Terms
 
 Board : The playground that has 40 squares on it
 
