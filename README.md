@@ -9,20 +9,20 @@ System Constraints
 The project will run as a simulation on the console on any device that has Java Runtime Environment.
 
 Glossary of Terms
- Board : The playground that has 40 squares on it
- Jail Square : A special square that makes the player lose 100 $
- Monopoly : The game that can be played on the board with 2 dice and 2-8
+Board : The playground that has 40 squares on it
+Jail Square : A special square that makes the player lose 100 $
+Monopoly : The game that can be played on the board with 2 dice and 2-8
 players
- Pawn : An object that moves on the board and shows the location of the player
- Player : The gamer that plays the game
- Rolling Dice : A method that creates random numbers between 2 and 12 for
+Pawn : An object that moves on the board and shows the location of the player
+Player : The gamer that plays the game
+Rolling Dice : A method that creates random numbers between 2 and 12 for
 players
- Square : Every piece of the game board that has a special property
- Start Square : A special square that the game starts on, when players passed
+Square : Every piece of the game board that has a special property
+Start Square : A special square that the game starts on, when players passed
 that point they earn 200 $
- Province Square: A square which has price and rent
- Management Square: A square which has price and rent
- Station Square: A square which has price and rent
- Chance Square: A square which the player take a card and do the task on the
+Province Square: A square which has price and rent
+Management Square: A square which has price and rent
+Station Square: A square which has price and rent
+Chance Square: A square which the player take a card and do the task on the
 card
- Public Fund Square: Chance Square: A square which the player take a card and do the task on the card
+Public Fund Square: Chance Square: A square which the player take a card and do the task on the card
